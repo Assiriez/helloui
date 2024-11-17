@@ -6,7 +6,7 @@
 - Please write about any errors you find in the comments to this project.
   
 
-### Мой второй тренировочный сайт.
+### (ru) Мой второй тренировочный сайт.
 
 - Это сайт для компьютеров и ноутбуков;
 - Поле для ввода e-mail пока не работает;
